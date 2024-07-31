@@ -7,6 +7,7 @@ function App() {
         <h1>Using Vite</h1>
       </div>
       <h1>Using Vite</h1>
+      <img src="" alt="Vite Logo" />
     </>
   );
 }
